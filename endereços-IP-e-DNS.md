@@ -1,4 +1,4 @@
-#Endereços IP e DNS
+# Endereços IP e DNS
 
 Você usa um dispositivo (notebook, celular) para se conectar à internet WiFi. Esse dispositivo se conecta ao ISP (Internet Service Provider) e o ISP te conecta a bilhões de dispositivos ao redor do mundo.
 
@@ -14,3 +14,5 @@ Um sistema conhecido como DNS (Domain Name System) associa o nome do endereço d
 O DNS foi criado para ser um protocolo aberto, público de comunicação. E porque é aberto, é susceptível a ataques. 
 
 Um tipo de ataque é o DNS Spoofing, que é quando o hacker consegue entrar no servidor DNS e atrelar o nome de um site a um outro endereço IP, o hackeado. 
+
+Fonte: Khan Academy
