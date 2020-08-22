@@ -1,21 +1,13 @@
-# Reprograma
+# {Reprograma}
 
-## Primeira aula da {Reprograma} - Versionamento de Código
+## Turma Back-End em parceria com o M.I.N.As do Porto Digital
 
-- Aula 1 de Git
+Neste repositório eu compartilharei meus aprendizados durante as 18 semanas de Bootcamp do {Reprograma}, dividindo as atividades por semanas. 
 
-> Para ver a branch em que estamos:
-git branch
-
-> Para criar branch e já mudar para ela:
-git checkout -b <nome-da-branch>
-
-> Apenas trocar de branch:
-git checkout <nome-da-branch-para-onde-se-quer-ir>
-
-> Para ver se a versão da master em que estamos é a mais atualizada:
-git pull
-(Se estiver, aparece "Already up to date")
-
-> Para deletar uma branch existente:
-git branch -d <nome-da-branch-a-ser-deletada>
+| Semana | Assunto | Exercício | 
+|--------|---------|-----------|
+| 01 | Introdução / Versionamento de Código (Git/Github) | Como funciona a Internet |
+| 02 | Introdução a JavaScript (Variáveis, Operadores e Condicional) | Calculadora de Média |
+| 03 | Lógica Aplicada | N/A |
+| 04 | Lógica Aplicada | N/A |
+| 05 | Projeto Guiado | N/A |
