@@ -1,0 +1,24 @@
+{
+  "name": "on7-porto-s2-resolucao-problemas-i",
+  "version": "1.0.0",
+  "description": "![node](./images/nodejs.jpg)",
+  "main": "escopo.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reprograma/on7-porto-s2-resolucao-problemas-I.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reprograma/on7-porto-s2-resolucao-problemas-I/issues"
+  },
+  "homepage": "https://github.com/reprograma/on7-porto-s2-resolucao-problemas-I#readme",
+  "keywords": []
+}
