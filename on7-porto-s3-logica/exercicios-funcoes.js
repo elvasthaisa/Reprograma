@@ -55,7 +55,6 @@ function divideSemZero(num1, num2) {
   return num1 / num2
 }
 
-
 console.log(divideSemZero(10, 2))
 
 // 3) crie uma função que chame internamente qualquer uma das funções acima e imprima o resultado no formato de String. Exemplo: "O resultado da operação é X" (sendo X o valor do resultado).
@@ -98,7 +97,6 @@ function geraNumeros(num1, num2) {
 
   console.log(`A soma de ${num1} e ${num2} é ${soma(num1, num2)}`)
 }
-
 
 geraNumeros()
 
@@ -150,4 +148,25 @@ console.log(converteString("Thaísa"))
 
 // 9) agora que você já sabe reverter strings, crie uma função que receba uma string, verifique se é um palíndromo e retorne true ou false. Exemplo de palíndromo: "arara".
 
+function isPalindrome(str) {
+  if(str === str.split("").reverse().join("")) {
+    return true;
+  } else {
+    return false;
+  }
+}
+
+console.log(isPalindrome('arara'))
+console.log(isPalindrome('amor'))
+
 // 10) crie uma função que receba duas strings como parâmetros e retorne a string com a maior quantidade de caracteres. Por exemplo, se passarmos como parâmetro "banana" e "chocolate" a função deve retornar "chocolate"
+
+function retornaMaiorCaracter(str1, str2) {
+  if(str1.length < str2.length) {
+    return str2
+  } else {
+    return str1
+  }
+}
+
+console.log(retornaMaiorCaracter('onomatopeia', 'inconsciente'))
