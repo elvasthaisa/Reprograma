@@ -1,0 +1,52 @@
+[
+    {
+        "titulo": "O Pequeno Príncipe",
+        "autor": "Antoine de Saint-Exupéry",
+        "ano": "1943"
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "ano": "1949"
+    },
+    {
+        "titulo": "A Menina que Roubava Livros",
+        "autor": "Markus Zusak",
+        "ano": "2005"
+    },
+    {
+        "titulo": "Harry Potter e o Prisioneiro de Azkaban",
+        "autor": "J. K. Rowling",
+        "ano": "1999"
+    },
+    {
+        "titulo": "Hamlet",
+        "autor": "William Shakespeare",
+        "ano": "1603"
+    },
+    {
+        "titulo": "Memórias Póstumas de Brás Cubas",
+        "autor": "Machado de Assis",
+        "ano": "1881"
+    },
+    {
+        "titulo": "Mindset: A nova psicologia do sucesso",
+        "autor": "Carol S. Dweck",
+        "ano": "2017"
+    },
+    {
+        "titulo": "Capitães da Areia",
+        "autor": "Jorge Amado",
+        "ano": "1937"
+    },
+    {
+        "titulo": "Luar Peregrino",
+        "autor": "Wilson Frungilo Jr",
+        "ano": "2001"
+    },
+    {
+        "titulo": "Meu Pé de Laranja Lima",
+        "autor": "José Mauro de Vasconcelos",
+        "ano": "1968"
+    }
+]
