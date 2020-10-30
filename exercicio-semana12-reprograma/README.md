@@ -12,7 +12,7 @@ Dados são fatos brutos, que não fazem sentido algum enquanto isolados. Já as 
 
 ### Tipos de bancos de dados
 - Banco de dados relacionais
-
+~~~
 São comumente utilizados para dados tabulares, ou seja, os dados são armazenados em uma tabela, com linhas e atributos responsáveis por organizá-los, o que torna a inserção bem mais simples. 
 Por analogia, funciona como uma tabela do Excel, em que os registros são padronizados, possuindo todos os mesmos atributos relacionados às linhas.
 Ex: SQL (Structured Query Language)
@@ -20,10 +20,10 @@ Ex: SQL (Structured Query Language)
 Vantagens: 
 - são estruturados e imutáveis
 - proteção da integridade do banco de dados
-
+~~~
 
 - Banco de dados não-relacionais
-
+~~~
 Armazena seus dados em documentos como um array de objetos JSON, em uma única estrutura de dados. Logo, não é necessário ter uma estrutura de dados previamente definida como em uma tabela, e os dados podem ter propriedades diferentes. 
 Ex: MongoDB
 
@@ -31,7 +31,7 @@ Vantagens:
 - maior velocidade e flexibilidade
 - são mais facilmente escalados horizontalmente para acomodar grandes volumes de dados em nuvem
 - não possui estrutura de dados definida. Assim, podem ser adicionadas ou retiradas propriedades conforme mudarem as necessidades, sem que isso impacte nas demais informações armazenadas.
-
+~~~
 
 OBS: Comparação de nomenclatura SQL x MongoDB
 
@@ -46,7 +46,7 @@ ___
 ## **MongoDB**
 > O foco do curso será no estudo do *MongoDB*.
 
-![MongoDB](./assets/mongodb.jpg)
+![MongoDB](/assets/mongodb.jpg)
 
 ### Primeiros comandos no MongoDB
 
