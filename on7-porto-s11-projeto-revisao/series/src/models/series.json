@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "genre": [
+            "comédia romântica",
+            "drama romântico"
+        ],
+        "synopsis": "Emily chega cheia de ideias e energia ao novo escritório em Paris. O único problema é que ela não sabe falar francês",
+        "liked": true,
+        "seasons": [
+            {
+                "id": 1,
+                "code": "season01",
+                "episodes": []
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Friends",
+        "genre": "Comédia",
+        "synopsis": "Seis jovens são unidos por laços familiares românticos e, principalmente, de amizade, enquanto tentam vingar em Nova York (...)",
+        "liked": true,
+        "seasons": []
+    },
+    {
+        "id": 3,
+        "name": "Dark",
+        "genre": [
+            "Drama",
+            "Ficção científica",
+            "Suspense"
+        ],
+        "synopsis": "Quatro diferentes famílias - Kahnwald, Nielsen, Doppler e Tiedemann - vivem em Winden, uma pequena e aparentemente tranquila cidade alemã. A rotina dos moradores vira de cabeça (...)",
+        "liked": true,
+        "seasons": []
+    }
+]
